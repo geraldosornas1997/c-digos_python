@@ -2,6 +2,7 @@
 notação científica
 a . 10^n 
 1 <= a < 10
+código que transforma um número em notação cientifica
 
 '''
 # verificar se o número é maior que dez
